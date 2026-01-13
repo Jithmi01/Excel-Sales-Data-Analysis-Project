@@ -35,7 +35,7 @@ The goal of this project is to demonstrate **data cleaning, data analysis, and d
 - Created calculated columns (Month-Year)  
 - Verified overall data consistency
 - 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/dataset.png)
 ---
 
 ## 📈 Analysis Performed
@@ -58,10 +58,10 @@ The goal of this project is to demonstrate **data cleaning, data analysis, and d
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Excel Sales Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/dashbaord.png)
 
 ### 🔹 Pivot Table Analysis
-![Pivot Table Analysis]
+![Pivot Table Analysis](images/piviot_table.png)
 
 
 
