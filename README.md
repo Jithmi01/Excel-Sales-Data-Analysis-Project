@@ -49,7 +49,7 @@ The goal of this project is to demonstrate **data cleaning, data analysis, and d
 
 ## 📊 Dashboard Features
 - Interactive pivot charts  
-- KPI cards for total sales and top products  
+- Charts for total sales, top products, etc.
 - Monthly sales trend visualization  
 - Product-wise and region-wise breakdown  
 
@@ -61,7 +61,7 @@ The goal of this project is to demonstrate **data cleaning, data analysis, and d
 ![Sales Dashboard](images/sales_dashboard.png)
 
 ### 🔹 Pivot Table Analysis
-![Pivot Table Analysis](images/pivot_tables.png)
+![Pivot Table Analysis]
 
 
 
