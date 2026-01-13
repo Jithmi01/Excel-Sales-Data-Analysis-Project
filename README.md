@@ -36,6 +36,7 @@ The goal of this project is to demonstrate **data cleaning, data analysis, and d
 - Verified overall data consistency
 - 
 ![Sales Dashboard](images/dataset.png)
+
 ---
 
 ## 📈 Analysis Performed
